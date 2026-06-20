@@ -102,6 +102,9 @@ Loss curve:
 
 Val loss стабилизировался к 3-й эпохе переобучения нет.
 
+![Loss Curve](wandb_loss_curve.png)<img width="1752" height="899" alt="image" src="https://github.com/user-attachments/assets/a706252a-06b1-4cef-b4ed-eaf96920e26d" />
+
+
 W&B run: https://wandb.ai/m-makpyr-iitu-edu-kz/marketing-finetune/runs/kg93esgc
 
 Адаптер: сохранён только адаптер (не вся модель): 21.1 MB. Файлы: adapter_config.json, adapter_model.safetensors
